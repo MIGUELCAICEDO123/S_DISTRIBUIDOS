@@ -1,4 +1,4 @@
-package itp.instituto.registr;
+package itp.instituto.registry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
