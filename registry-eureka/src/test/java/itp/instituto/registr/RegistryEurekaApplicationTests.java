@@ -1,4 +1,4 @@
-package itp.instituto.registry;
+package itp.instituto.registr;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

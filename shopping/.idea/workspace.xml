@@ -6,29 +6,23 @@
   <component name="ChangeListManager">
     <list default="true" id="eaa8f660-aeb2-4c0c-b423-10414435a7ab" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-data/shopping.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-data/shopping.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/ShoppingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/ShoppingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../config/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../config/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../config/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../config/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registry-eureka/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registry-eureka/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registry-eureka/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registry-eureka/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registry-eureka/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registry-eureka/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registry-eureka/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registry-eureka/src/main/java/itp/instituto/registry/RegistryEurekaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registry-eureka/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registry-eureka/src/test/java/itp/instituto/registry/RegistryEurekaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/client/CustomerHystrixFallbackFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/client/CustomerHystrixFallbackFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/controller/InvoiceRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/controller/InvoiceRest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/entity/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/entity/Invoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/entity/InvoiceItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/entity/InvoiceItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/repository/InvoiceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/repository/InvoiceRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/service/InvoiceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/service/InvoiceService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/service/InvoiceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/itp/instituto/shopping/service/InvoiceServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/itp/instituto/shopping/ShoppingApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +67,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "E:/DANNERY",
+    "last_opened_file_path": "E:/DANNERY/registry-service",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
